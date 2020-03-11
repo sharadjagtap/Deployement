@@ -79,10 +79,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'pydb',
-        'USER':'root',
-        'PASSWORD':'root123',
-        'HOST':'localhost',
-        'PORT':3306
+        'USER':'sharadujagtap',
+        'PASSWORD':'Vrush99@',
+        'HOST':'http://sharadujagtap.pythonanywhere.com/',
     }
 }
 
